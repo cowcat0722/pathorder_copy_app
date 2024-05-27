@@ -12,6 +12,7 @@ kdit4-green Final Project Team 3
 <b>Web 시연 영상</b> <br>
 [![Video Label](https://github.com/9oj0e/pathorder_app/assets/153582126/543f2a78-aafc-477a-90c7-4ec85b71d8e6)](https://www.youtube.com/watch?v=1SRf4YaUzlU)
 # 발표자료
+[![image](https://github.com/cowcat0722/pathorder_copy_app/assets/153582126/89298c46-5121-4532-b62e-a0cb39d37c68)](https://github.com/cowcat0722/pathorder_copy_app/files/15451115/KDT.3.3.pdf)
 
 # 프로젝트 기간
 2024.04.17 ~ 2024.05.22
