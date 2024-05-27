@@ -88,7 +88,7 @@ kdit4-green Final Project Team 3
 => <b>이러한 전략들을 구현함으로써 우리는 애플리케이션이 불필요한 네트워크 통신을 줄이고 그로인한 사용자 경험을 향상시킬 수 있도록 노력하였음.</b>
 
 # 시나리오
-
+## App
 <table style="border: 2px;">
 <tr>
   <td align=center>스플래시 화면</td>
@@ -116,4 +116,19 @@ kdit4-green Final Project Team 3
 </tr>
 </table>
 
+## Web
+<table style="border: 2px;">
+<tr>
+  <td align=center>주문 상태 변경 및 주문 기록 보기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/cowcat0722/pathorder_copy_app/assets/153582126/03428258-7273-4509-a4a4-528a766d73e6"  width="910" height="455"/></td>
+</tr>
+  <tr>
+  <td align=center>메뉴 저장 및 수정하기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/cowcat0722/pathorder_copy_app/assets/153582126/ad9b29e9-67a7-4026-9248-50274584dbad"  width="910" height="455"/></td>
+</tr>
+</table>
 
